@@ -1,0 +1,20 @@
+Book0001, Giai tich1, ten tac gia, ten nha xuat ban, nam xuat ban, true
+Book0002, Giai tich2, ten tac gia, ten nha xuat ban, nam xuat ban, true
+Book0003, Vat ky 1, ten tac gia, ten nha xuat ban, nam xuat ban, true
+Book0004, Vat ly 2, ten tac gia, ten nha xuat ban, nam xuat ban, true
+Book0005, Nhung nguyen ly co ban cua chu nghia Mac-Lenin 1, ten tac gia, ten nha xuat ban, nam xuat ban, true
+Book0006, Nhung nguyen ly co ban cua chu nghia Mac-Lenin 2, ten tac gia, ten nha xuat ban, nam xuat ban, true
+Book0007, Tu tuong Ho Chi Minh, ten tac gia, ten nha xuat ban, nam xuat ban, true
+Book0008, Duong loi Dang cong san Viet Nam, ten tac gia, ten nha xuat ban, nam xuat ban, true
+Book0009, Tin hoc dai cuong, ten tac gia, ten nha xuat ban, nam xuat ban, true
+Book0010, Thuc hanh Tin hoc dai cuong, ten tac gia, ten nha xuat ban, nam xuat ban, true
+Book0011, Lap trinh Huong doi tuong, ten tac gia, ten nha xuat ban, nam xuat ban, true
+Book0012, Thuc hanh Lap trinh Huong doi tuong, ten tac gia, ten nha xuat ban, nam xuat ban, true
+Book0013, Hoa dai cuong, ten tac gia, ten nha xuat ban, nam xuat ban, true
+Book0014, Ki thuat dien, ten tac gia, ten nha xuat ban, nam xuat ban, true
+Book0015, Thi nghiem vat ly dien tu quang, ten tac gia, ten nha xuat ban, nam xuat ban, true
+Book0016, Anh van du bi, ten tac gia, ten nha xuat ban, nam xuat ban, true
+Book0017, Anh van A2.1, ten tac gia, ten nha xuat ban, nam xuat ban, true
+Book0018, Anh van A2.2, ten tac gia, ten nha xuat ban, nam xuat ban, true
+Book0019, Anh van chuyen nganh, ten tac gia, ten nha xuat ban, nam xuat ban, true
+Book0020, Tieng Anh nang luc, ten tac gia, ten nha xuat ban, nam xuat ban, true
